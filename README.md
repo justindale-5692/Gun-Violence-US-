@@ -14,3 +14,5 @@ This project used the following python libraries
 * sklearn - for machine learning
 * statsmodels.api - for statistical computations (decomposition of time series)
 * folium - for geographical visulaizations
+### Links
+[Tableau Storyboard](https://public.tableau.com/app/profile/justin.thompson1788/viz/GunViolenceUS/Story4?publish=yes)
